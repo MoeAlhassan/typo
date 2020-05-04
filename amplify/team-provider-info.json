@@ -1,0 +1,15 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-typo-prod-225407-authRole",
+            "UnauthRoleArn": "arn:aws:iam::221275166129:role/amplify-typo-prod-225407-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::221275166129:role/amplify-typo-prod-225407-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-typo-prod-225407-deployment",
+            "UnauthRoleName": "amplify-typo-prod-225407-unauthRole",
+            "StackName": "amplify-typo-prod-225407",
+            "StackId": "arn:aws:cloudformation:us-east-1:221275166129:stack/amplify-typo-prod-225407/e91bad00-8dba-11ea-8f0e-0e353767367b",
+            "AmplifyAppId": "d2wuy5sykdxljd"
+        }
+    }
+}
